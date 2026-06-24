@@ -48,3 +48,15 @@ This project demonstrates:
 ⚠️ **Note:** This is only a demo frontend project. No real data or backend logic is included.
 
 
+## 🤝 Contributing
+This project is currently **frontend-only**.  
+If you’d like to contribute, here are some ideas:
+- Add backend integration (Node.js, Express, Django, etc.)  
+- Connect to a database (MongoDB, PostgreSQL, etc.)  
+- Implement APIs for churn prediction, funnel analysis, and user insights  
+- Enhance authentication and security features  
+
+Pull requests are welcome! Please open an issue first to discuss what you’d like to add.
+
+
+
