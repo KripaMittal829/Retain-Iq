@@ -49,10 +49,10 @@ Frontend pages for:
 ![User Segments Screenshot](images/user-segments.png)
 
 ### Security & Logs
-![Security Screenshot](images/security.png)
+![Security Screenshot](images/Security.png)
 
 ### Blog & Resources
-![Blog Screenshot](images/blog.png)
+![Blog Screenshot](images/Blog.png)
 
 ### Documentation
 ![Docs Screenshot](images/docs.png)
@@ -61,7 +61,7 @@ Frontend pages for:
 ![Home Screenshot](images/home.png)
 
 ### ✨ Key Features
-![Key Features Screenshot](images/KetFeatures.png)
+![Key Features Screenshot](images/KeyFeatures.png)
 
 ### 💰 Pricing
 ![Pricing Screenshot](images/Pricing.png)
