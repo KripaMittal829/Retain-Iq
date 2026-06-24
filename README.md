@@ -47,4 +47,4 @@ This project demonstrates:
 
 ⚠️ **Note:** This is only a demo frontend project. No real data or backend logic is included.
 
-MIT License
+
